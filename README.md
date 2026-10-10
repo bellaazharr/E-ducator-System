@@ -9,7 +9,7 @@
 
 A team project built for a real client. It replaces manual student records and attendance tracking at IKM Johor Bahru with one web app that lecturers and admins can use from any browser.
 
-**Live app:**[ [Netlify Link](https://e-ducator.netlify.app)
+**Live app:**[Netlify Link](https://e-ducator.netlify.app)
 
 ## What it does
 - **User registration** for students and staff, with role-based access
